@@ -1,4 +1,4 @@
-# Danira WooCommerce AI Product Advisor + RAG
+# WooCommerce AI Product Advisor + RAG
 
 An AI-powered pre-sales assistant for WooCommerce stores, built with **n8n**, **Gemini**, **Supabase**, and live **WooCommerce product data**.
 
